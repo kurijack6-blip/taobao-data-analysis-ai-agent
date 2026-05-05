@@ -325,7 +325,7 @@ category_id    item_count  aver_stats  buy_total
 
 [Bot Agent画布](outputs/coze/screenshots/Agent.png)
 
-Bot 公开链接：(https://www.coze.cn/space/7629329560013946916/bot/7635979665257267219)
+Bot 公开链接：[(https://www.coze.cn/space/7629329560013946916/bot/7635979665257267219)](https://www.coze.cn/store/agent/7636038430912266303?bid=6judd66p05g14)
 
 详细配置与代码见 [outputs/coze/] 目录。
 
