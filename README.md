@@ -22,7 +22,7 @@
 
 | 你想看什么 | 点这里 |
 | :--- | :--- |
-| 完整分析报告（含图表） | [data_analysis/outputs/report.md](data_analysis/outputs/report.md) |
+| 完整分析报告 | [data_analysis/outputs/report.md](data_analysis/outputs/report.md) |
 | SQL 清洗脚本 | [data_analysis/clean_user_behavior.sql](data_analysis/clean_user_behavior.sql) |
 | Python 分析代码 | [data_analysis/taobao_analysis/data_analysis.ipynb](data_analysis/taobao_analysis/data_analysis.ipynb) |
 | 直接体验智能体 | [Coze 商店链接](https://www.coze.cn/store/agent/7636038430912266303?bid=6judd66p05g14) |
