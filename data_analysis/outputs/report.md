@@ -321,11 +321,13 @@ category_id    item_count  aver_stats  buy_total
 
 为将分析能力产品化，本项目搭建了“淘宝用户行为分析智能体”，支持知识查询与实时分析双模式。
 
-![Bot 工作流画布](outputs/coze/screenshots/workflow_overview.png)
+[Bot 工作流画布](outputs/coze/screenshots/workflow_overview.png)
 
-Bot 公开链接：[https://www.coze.com/……](http://www.coze.com/……)
+[Bot Agent画布](outputs/coze/screenshots/Agent.png)
 
-详细配置与代码见 [outputs/coze/](outputs/coze/) 目录。
+Bot 公开链接：(https://www.coze.cn/space/7629329560013946916/bot/7635979665257267219)
+
+详细配置与代码见 [outputs/coze/] 目录。
 
 ## 八、核心结论
 
