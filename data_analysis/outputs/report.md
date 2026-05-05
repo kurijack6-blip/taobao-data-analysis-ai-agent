@@ -317,7 +317,15 @@ category_id    item_count  aver_stats  buy_total
 |     总计      |   45 分钟   |        3 分钟         | 93% |
 
 结论：AI 辅助工具将单次分析报告的产出时间从 45 分钟压缩至约 3 分钟，使分析师能将更多精力投入深度归因与策略思考。
+### 7.4 Coze 智能体落地
 
+为将分析能力产品化，本项目搭建了“淘宝用户行为分析智能体”，支持知识查询与实时分析双模式。
+
+![Bot 工作流画布](outputs/coze/screenshots/workflow_overview.png)
+
+Bot 公开链接：[https://www.coze.com/……](http://www.coze.com/……)
+
+详细配置与代码见 [outputs/coze/](outputs/coze/) 目录。
 
 ## 八、核心结论
 
